@@ -1,10 +1,10 @@
 # Hospital Medical Record Analysis Dashboard | Excel
 
-**Turning 11,500 hospital records into actionable healthcare insights through data analytics, statistical testing, and interactive dashboard design.**
+**Turning 11,500 hospital records into actionable healthcare insights through data analytics, statistical testing, and dashboard design.**
 
 ## Project Overview
 
-This project analyses **11,500 hospital medical records spanning 2018–2024** to explore disease distribution, patient outcomes, hospital resource utilization, risk profiles, treatment patterns, and annual case trends.
+**This project analyses 11,500 hospital medical records spanning 2018–2024 to explore disease distribution, patient outcomes, hospital resource utilization, risk profiles, treatment patterns, and annual case trends.**
 
 Using Microsoft Excel, Power Query, and Power Pivot, I developed an interactive dashboard that transforms raw hospital data into meaningful insights for healthcare performance monitoring and evidence-informed decision-making.
 
@@ -14,7 +14,7 @@ The central finding is that the recorded caseload is relatively evenly distribut
 
 ## Dashboard Preview
 
-![Hospital Medical Record Analysis Dashboard](images/hospital-dashboard.png)
+![Hospital Medical Record Analysis Dashboard]([images/hospital-dashboard.png](https://github.com/oloruntayobolade/Hospital-Medical-Record-Analysis/blob/main/Overview-Dashboard..png)
 
 *Interactive Excel dashboard featuring KPI cards, PivotCharts, disease distribution, hospitalization days, treatment patterns, patient risk profiles, family history, and annual case trends.*
 
@@ -212,19 +212,6 @@ Potential next steps include:
 - Validating hospitalization duration at the individual admission level.
 - Developing a Power BI version of the dashboard.
 - Exploring suitable regression models if the required patient-level variables and data quality are available.
-
-## Repository Structure
-
-```text
-hospital-medical-record-analysis/
-│
-├── README.md
-├── images/
-│   └── hospital-dashboard.png
-├── data/
-│   └── README.md
-└── reports/
-    └── dashboard-report.pdf
 
 ## How to Use This Project
 
