@@ -14,7 +14,7 @@ The central finding is that the recorded caseload is relatively evenly distribut
 
 ## Dashboard Preview
 
-[Hospital Medical Record Analysis Dashboard]([images/hospital-dashboard.png](https://github.com/oloruntayobolade/Hospital-Medical-Record-Analysis/blob/main/Overview-Dashboard..png)
+![Hospital Medical Record Analysis Dashboard](https://github.com/oloruntayobolade/Hospital-Medical-Record-Analysis/blob/main/Overview-Dashboard..png)
 
 *Excel dashboard featuring KPI cards, PivotCharts, disease distribution, hospitalization days, treatment patterns, patient risk profiles, family history, and annual case trends.*
 
